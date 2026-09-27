@@ -9,7 +9,7 @@ TARGET_RUN = run.exe
 SRC_RUN = $(SRC_DIR)\run.cpp
 LDFLAGS_RUN = -mconsole
 
-TARGET_WRAPPER = run_portable.exe
+TARGET_WRAPPER = LameDscrd.exe
 SRC_WRAPPER = $(SRC_DIR)\wrapper.cpp
 RC_WRAPPER = $(SRC_DIR)\wrapper.rc
 RES_WRAPPER = $(SRC_DIR)\wrapper.res

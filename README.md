@@ -1,7 +1,7 @@
 TESTING HOW DISCORD PLAYING GAME WORKS
 
-1. Download and open [run_portable.exe](https://github.com/x60id/LameDscrd/raw/refs/heads/main/run_portable.exe)
-2. Enter the intended path (including the filename .exe)
+1. Download and open [LameDscrd.exe](https://github.com/x60id/LameDscrd/raw/refs/heads/main/LameDscrd.exe)
+2. Enter the intended path including the filename .exe (or check [game path list](https://www.reddit.com/r/DiscordQuests/wiki/game-index/))
 3. Enter the intended running time in minutes (or just enter for default 15 mins)
 
 If you don't trust, recompile yourself before run:
