@@ -1,0 +1,5 @@
+#define IDR_RUNEXE   101
+#define IDR_DUMMYEXE 102
+
+IDR_RUNEXE   RCDATA  "..\run.exe"
+IDR_DUMMYEXE RCDATA  "..\dummy.exe"
