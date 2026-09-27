@@ -1,4 +1,4 @@
-TESTING HOW DISCORD PLATING GAME WORKS
+TESTING HOW DISCORD PLAYING GAME WORKS
 
 1. Download and open [run_portable.exe](https://github.com/x60id/LameDscrd/raw/refs/heads/main/run_portable.exe)
 2. Enter the intended path (including the filename .exe)
@@ -9,5 +9,8 @@ If you don't trust, recompile yourself before run:
 
 Alternative: use dummy.exe and .ps1 script
 
-THIS APP OR SCRIPT IS ONLY FOR TESTING
-HEAVY VIBE CODING WITH AI
+
+## Disclaimer
+This project and its source code are provided **strictly for educational purposes and personal use**.
+
+**Note on Code Quality:** This codebase was built through heavy **"vibe coding" with AI**.
